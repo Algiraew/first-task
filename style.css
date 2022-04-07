@@ -1,0 +1,66 @@
+body {
+    width: 800px;
+    margin: auto;
+    
+}
+
+nav {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    padding: 20px 0;
+    border-bottom: 1px solid;
+
+}
+
+nav, a {
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+
+.content {
+    
+    display: flex
+}
+
+
+.name {
+    width: 266px;
+    text-align: left;
+}
+
+
+.two {
+    margin-top: 45px;
+    width: 266px;
+    text-align: center;
+}
+
+
+.right-text {
+    margin-top: 35px;
+    width: 266px;
+    text-align: right
+    font-family: ;
+    writing-mode: vertical-rl;
+}
+
+
+img {
+    width: 800px;
+    margin-top: 50px;
+}
+
+
